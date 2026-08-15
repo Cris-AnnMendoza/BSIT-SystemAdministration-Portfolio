@@ -1,20 +1,22 @@
-Week 1 – Building My Professional Environment
+# Week 1 – Building My Professional Environment
 
-Student Information
+## Student Information
 
-Name: Cris-Ann F. Mendoza
-Course: BSIT
-Section: 4D
-Date: August 15, 2026
+- **Name:** Cris-Ann F. Mendoza
+- **Course:** BSIT
+- **Section:** 4D
+- **Date:** August 15, 2026
 
-Objectives
+# Objectives
 
 - To learn the basic concepts of System Administration and Maintenance.
 - To set up the software and accounts needed for system administration activities.
 - To become familiar with tools used in system administration.
 - To prepare a professional working environment for future system administration activities.
 
-Software Installed
+---
+
+# Software Installed
 
 - Git
 - GitHub Desktop
@@ -22,6 +24,7 @@ Software Installed
 - VirtualBox
 - Ubuntu ISO
 - Windows ISO
+
 
 Professional Accounts
 **GitHub:** https://github.com/Cris-AnnMendoza
